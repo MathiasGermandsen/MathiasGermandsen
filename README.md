@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MathiasGermandsen
-- 👀 I’m interested in Software develeopment, devops, cloud, and cyber sec
-- 🌱 I’m currently learning C# Blazor, tailwind, terraform, golang
-
+- Beer
 
 <!---
 MathiasGermandsen/MathiasGermandsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
