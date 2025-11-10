@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 System Engineer Apprentice @ BESTSELLER <br />
 🚀 Passionate about building modern applications with Go (Golang) and C# more to come. <br />
-🎶 On the side, I create EDM/techno music. <br />
+🎶 On the side, I create EDM, Tech House, and Techno music. <br />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
